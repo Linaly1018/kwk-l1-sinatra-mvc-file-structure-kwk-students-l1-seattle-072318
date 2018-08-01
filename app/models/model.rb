@@ -6,5 +6,5 @@ class Dog
     @breed = breed
     @age = age
   end
-  @@dog_count
+  @@dog_count += 1 
 end
