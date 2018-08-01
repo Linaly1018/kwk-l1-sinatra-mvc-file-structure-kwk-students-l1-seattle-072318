@@ -11,3 +11,5 @@ class Dog
     @@dog_count
   end 
 end
+
+puts Dog.dog_count
