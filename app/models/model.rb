@@ -8,4 +8,6 @@ class Dog
   end
   @@dog_count += 1 
   def self.dog_count
+    @@dog_count
+  end 
 end
