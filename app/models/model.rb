@@ -7,4 +7,5 @@ class Dog
     @age = age
   end
   @@dog_count += 1 
+  def san
 end
