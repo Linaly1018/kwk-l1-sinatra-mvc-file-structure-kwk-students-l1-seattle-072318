@@ -7,6 +7,5 @@ class Dog
     @age = age
   end
   @@dog_count += 1 
-  def self.sandwich_count
-    
+  def self.dog_count
 end
