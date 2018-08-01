@@ -1,3 +1,7 @@
-class Model
-  # Replace with Dog clas
+class Dog
+  attr_accessor :name
+  def initialize
+    @name 
+    @breed 
+    @age 
 end
